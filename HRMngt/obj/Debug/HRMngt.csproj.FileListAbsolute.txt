@@ -1,0 +1,17 @@
+C:\Users\Surface\source\repos\HRMngt\HRMngt\bin\Debug\HRMngt.exe.config
+C:\Users\Surface\source\repos\HRMngt\HRMngt\bin\Debug\HRMngt.exe
+C:\Users\Surface\source\repos\HRMngt\HRMngt\bin\Debug\HRMngt.pdb
+C:\Users\Surface\source\repos\HRMngt\HRMngt\obj\Debug\HRMngt.csproj.AssemblyReference.cache
+C:\Users\Surface\source\repos\HRMngt\HRMngt\obj\Debug\HRMngt.Properties.Resources.resources
+C:\Users\Surface\source\repos\HRMngt\HRMngt\obj\Debug\HRMngt.csproj.GenerateResource.cache
+C:\Users\Surface\source\repos\HRMngt\HRMngt\obj\Debug\HRMngt.csproj.CoreCompileInputs.cache
+C:\Users\Surface\source\repos\HRMngt\HRMngt\obj\Debug\HRMngt.exe
+C:\Users\Surface\source\repos\HRMngt\HRMngt\obj\Debug\HRMngt.pdb
+C:\Users\Surface\source\repos\HRMngt\HRMngt\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Surface\source\repos\HRMngt\HRMngt\bin\Debug\MaterialSkin.dll
+C:\Users\Surface\source\repos\HRMngt\HRMngt\bin\Debug\MetroFramework.Design.dll
+C:\Users\Surface\source\repos\HRMngt\HRMngt\bin\Debug\MetroFramework.dll
+C:\Users\Surface\source\repos\HRMngt\HRMngt\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Surface\source\repos\HRMngt\HRMngt\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Surface\source\repos\HRMngt\HRMngt\obj\Debug\HRMngt.View.Home.resources
+C:\Users\Surface\source\repos\HRMngt\HRMngt\obj\Debug\HRMngt.csproj.Up2Date
