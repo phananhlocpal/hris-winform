@@ -30,6 +30,7 @@
         {
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.section__header = new System.Windows.Forms.Panel();
             this.header__mainHeader = new System.Windows.Forms.Panel();
@@ -69,15 +70,16 @@
             this.main__container = new ComponentFactory.Krypton.Toolkit.KryptonPanel();
             this.kryptonTextBox4 = new ComponentFactory.Krypton.Toolkit.KryptonTextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnCreate = new System.Windows.Forms.Button();
             this.cboStatus = new System.Windows.Forms.ComboBox();
             this.cboDep = new System.Windows.Forms.ComboBox();
             this.btnSalaryExport = new System.Windows.Forms.Button();
             this.btnPayCheck = new System.Windows.Forms.Button();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.section__header.SuspendLayout();
             this.header__mainHeader.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
@@ -632,49 +634,24 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column1,
+            this.Column5,
             this.Column2,
             this.Column3,
             this.Column4});
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(43)))), ((int)(((byte)(63)))));
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(43)))), ((int)(((byte)(63)))));
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle4;
             this.dataGridView1.EnableHeadersVisualStyles = false;
             this.dataGridView1.Location = new System.Drawing.Point(3, 54);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 50;
-            this.dataGridView1.Size = new System.Drawing.Size(549, 271);
+            this.dataGridView1.Size = new System.Drawing.Size(560, 271);
             this.dataGridView1.TabIndex = 7;
-            // 
-            // Column1
-            // 
-            this.Column1.FillWeight = 30F;
-            this.Column1.HeaderText = "Nhân viên";
-            this.Column1.Name = "Column1";
-            this.Column1.Width = 130;
-            // 
-            // Column2
-            // 
-            this.Column2.FillWeight = 200F;
-            this.Column2.HeaderText = "Chế độ";
-            this.Column2.Name = "Column2";
-            // 
-            // Column3
-            // 
-            this.Column3.FillWeight = 200F;
-            this.Column3.HeaderText = "Chức danh";
-            this.Column3.Name = "Column3";
-            // 
-            // Column4
-            // 
-            this.Column4.FillWeight = 30F;
-            this.Column4.HeaderText = "Trạng thái";
-            this.Column4.Name = "Column4";
-            this.Column4.Width = 85;
             // 
             // btnCreate
             // 
@@ -725,6 +702,42 @@
             this.btnPayCheck.TabIndex = 9;
             this.btnPayCheck.Text = "Gửi phiếu lương";
             this.btnPayCheck.UseVisualStyleBackColor = true;
+            // 
+            // Column1
+            // 
+            this.Column1.FillWeight = 30F;
+            this.Column1.HeaderText = "Nhân viên";
+            this.Column1.MinimumWidth = 2;
+            this.Column1.Name = "Column1";
+            this.Column1.Width = 120;
+            // 
+            // Column5
+            // 
+            dataGridViewCellStyle3.Format = "d";
+            dataGridViewCellStyle3.NullValue = null;
+            this.Column5.DefaultCellStyle = dataGridViewCellStyle3;
+            this.Column5.HeaderText = "Kỳ lương";
+            this.Column5.Name = "Column5";
+            this.Column5.Width = 80;
+            // 
+            // Column2
+            // 
+            this.Column2.FillWeight = 200F;
+            this.Column2.HeaderText = "Chế độ";
+            this.Column2.Name = "Column2";
+            // 
+            // Column3
+            // 
+            this.Column3.FillWeight = 200F;
+            this.Column3.HeaderText = "Chức danh";
+            this.Column3.Name = "Column3";
+            // 
+            // Column4
+            // 
+            this.Column4.FillWeight = 30F;
+            this.Column4.HeaderText = "Trạng thái";
+            this.Column4.Name = "Column4";
+            this.Column4.Width = 85;
             // 
             // Salary
             // 
@@ -829,14 +842,15 @@
         private ComponentFactory.Krypton.Toolkit.KryptonTextBox kryptonTextBox8;
         private ComponentFactory.Krypton.Toolkit.KryptonTextBox kryptonTextBox1;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
         private System.Windows.Forms.Button btnCreate;
         private System.Windows.Forms.ComboBox cboStatus;
         private System.Windows.Forms.ComboBox cboDep;
         private System.Windows.Forms.Button btnPayCheck;
         private System.Windows.Forms.Button btnSalaryExport;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
     }
 }
