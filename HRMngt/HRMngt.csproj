@@ -39,8 +39,17 @@
     <StartupObject>HRMngt.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Docking">
+      <HintPath>..\..\..\..\Downloads\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Navigator">
+      <HintPath>..\..\..\..\Downloads\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Navigator.dll</HintPath>
+    </Reference>
     <Reference Include="ComponentFactory.Krypton.Toolkit">
       <HintPath>..\..\..\..\Downloads\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomControlUsingPalettes">
+      <HintPath>..\..\..\..\Downloads\Krypton-master\Krypton-master\Bin\CustomControlUsingPalettes.exe</HintPath>
     </Reference>
     <Reference Include="MaterialSkin, Version=2.3.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\MaterialSkin.2.2.3.1\lib\net48\MaterialSkin.dll</HintPath>
@@ -54,7 +63,13 @@
     <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
       <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="ReaLTaiizor, Version=3.8.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ReaLTaiizor.3.8.0.2\lib\net48\ReaLTaiizor.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Design" />
     <Reference Include="System.Management" />
@@ -70,39 +85,51 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="popup\FailPopUp.cs">
+    <Compile Include="Model\IUserRepository.cs" />
+    <Compile Include="Model\UserModel.cs" />
+    <Compile Include="Presenter\UserPresenter.cs" />
+    <Compile Include="View\IUserView.cs" />
+    <Compile Include="View\Popup\FailPopUp.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="popup\FailPopUp.Designer.cs">
+    <Compile Include="View\Popup\FailPopUp.Designer.cs">
       <DependentUpon>FailPopUp.cs</DependentUpon>
     </Compile>
-    <Compile Include="popup\IndividualPopUP.cs">
+    <Compile Include="View\Popup\IndividualPopUP.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="popup\IndividualPopUP.Designer.cs">
+    <Compile Include="View\Popup\IndividualPopUP.Designer.cs">
       <DependentUpon>IndividualPopUP.cs</DependentUpon>
     </Compile>
-    <Compile Include="popup\SucessPopUp.cs">
+    <Compile Include="View\Popup\SucessPopUp.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="popup\SucessPopUp.Designer.cs">
+    <Compile Include="View\Popup\SucessPopUp.Designer.cs">
       <DependentUpon>SucessPopUp.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="View\Home.cs">
+    <Compile Include="View\Template_User.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\Home.Designer.cs">
-      <DependentUpon>Home.cs</DependentUpon>
+    <Compile Include="View\Template_User.Designer.cs">
+      <DependentUpon>Template_User.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="popup\FailPopUp.resx">
+    <Compile Include="View\Template.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Template.Designer.cs">
+      <DependentUpon>Template.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Repository\BaseRepository.cs" />
+    <Compile Include="_Repository\UserRepository.cs" />
+    <EmbeddedResource Include="View\Popup\FailPopUp.resx">
       <DependentUpon>FailPopUp.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="popup\IndividualPopUP.resx">
+    <EmbeddedResource Include="View\Popup\IndividualPopUP.resx">
       <DependentUpon>IndividualPopUP.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="popup\SucessPopUp.resx">
+    <EmbeddedResource Include="View\Popup\SucessPopUp.resx">
       <DependentUpon>SucessPopUp.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -115,8 +142,11 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="View\Home.resx">
-      <DependentUpon>Home.cs</DependentUpon>
+    <EmbeddedResource Include="View\Template_User.resx">
+      <DependentUpon>Template_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Template.resx">
+      <DependentUpon>Template.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -132,10 +162,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Model\" />
-    <Folder Include="Presenter\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Resources\image 36.png" />
   </ItemGroup>

@@ -3,43 +3,63 @@
   "WorkspaceRootPath": "C:\\Users\\Surface\\source\\repos\\HRMngt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|C:\\Users\\Surface\\source\\repos\\HRMngt\\hrmngt\\view\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\view\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|C:\\Users\\Surface\\source\\repos\\HRMngt\\hrmngt\\view\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\view\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|c:\\users\\surface\\source\\repos\\hrmngt\\hrmngt\\popup\\failpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\popup\\failpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|C:\\Users\\Surface\\source\\repos\\HRMngt\\hrmngt\\view\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\view\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|c:\\users\\surface\\source\\repos\\hrmngt\\hrmngt\\popup\\sucesspopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\popup\\sucesspopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|C:\\Users\\Surface\\source\\repos\\HRMngt\\hrmngt\\view\\template_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\view\\template_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|c:\\users\\surface\\source\\repos\\hrmngt\\hrmngt\\popup\\sucesspopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\popup\\sucesspopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|C:\\Users\\Surface\\source\\repos\\HRMngt\\hrmngt\\view\\template_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\view\\template_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HRMngt||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|c:\\users\\surface\\source\\repos\\hrmngt\\hrmngt\\_repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\_repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|C:\\Users\\Surface\\source\\repos\\HRMngt\\hrmngt\\popup\\individualpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\popup\\individualpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|c:\\users\\surface\\source\\repos\\hrmngt\\hrmngt\\model\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\model\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|C:\\Users\\Surface\\source\\repos\\HRMngt\\hrmngt\\view\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\view\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|c:\\users\\surface\\source\\repos\\hrmngt\\hrmngt\\_repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\_repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|C:\\Users\\Surface\\source\\repos\\HRMngt\\hrmngt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|C:\\Users\\Surface\\source\\repos\\HRMngt\\hrmngt\\view\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\view\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|C:\\Users\\Surface\\source\\repos\\HRMngt\\hrmngt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HRMngt||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|c:\\users\\surface\\source\\repos\\hrmngt\\hrmngt\\presenter\\userpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\presenter\\userpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|c:\\users\\surface\\source\\repos\\hrmngt\\hrmngt\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|c:\\users\\surface\\source\\repos\\hrmngt\\hrmngt\\view\\iuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\view\\iuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|C:\\Users\\Surface\\source\\repos\\HRMngt\\hrmngt\\popup\\individualpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\popup\\individualpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|c:\\users\\surface\\source\\repos\\hrmngt\\hrmngt\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{5C07A2D6-6976-400A-A0D6-B90B87BC0F12}|HRMngt\\HRMngt.csproj|solutionrelative:hrmngt\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,98 +69,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FailPopUp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\popup\\FailPopUp.cs",
-              "RelativeDocumentMoniker": "HRMngt\\popup\\FailPopUp.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\popup\\FailPopUp.cs [Design]",
-              "RelativeToolTip": "HRMngt\\popup\\FailPopUp.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T12:11:25.846Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SucessPopUp.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\popup\\SucessPopUp.cs",
-              "RelativeDocumentMoniker": "HRMngt\\popup\\SucessPopUp.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\popup\\SucessPopUp.cs",
-              "RelativeToolTip": "HRMngt\\popup\\SucessPopUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T12:04:39.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SucessPopUp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\popup\\SucessPopUp.cs",
-              "RelativeDocumentMoniker": "HRMngt\\popup\\SucessPopUp.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\popup\\SucessPopUp.cs [Design]",
-              "RelativeToolTip": "HRMngt\\popup\\SucessPopUp.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T11:56:26.792Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Home.cs",
-              "RelativeDocumentMoniker": "HRMngt\\View\\Home.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Home.cs [Design]",
-              "RelativeToolTip": "HRMngt\\View\\Home.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T14:16:09.343Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IndividualPopUP.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\popup\\IndividualPopUP.cs",
-              "RelativeDocumentMoniker": "HRMngt\\popup\\IndividualPopUP.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\popup\\IndividualPopUP.cs",
-              "RelativeToolTip": "HRMngt\\popup\\IndividualPopUP.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAApwBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T08:31:37.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HRMngt",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\HRMngt.csproj",
-              "RelativeDocumentMoniker": "HRMngt\\HRMngt.csproj",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\HRMngt.csproj",
-              "RelativeToolTip": "HRMngt\\HRMngt.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-02-29T07:19:10.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Home.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Home.cs",
-              "RelativeDocumentMoniker": "HRMngt\\View\\Home.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Home.cs",
-              "RelativeToolTip": "HRMngt\\View\\Home.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwBwAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T06:27:13.913Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -149,35 +79,181 @@
               "RelativeDocumentMoniker": "HRMngt\\Program.cs",
               "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\Program.cs",
               "RelativeToolTip": "HRMngt\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBsAAAA2AAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAxwBwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T04:21:01.155Z"
+              "WhenOpened": "2024-02-23T04:21:01.155Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Home.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Home.Designer.cs",
-              "RelativeDocumentMoniker": "HRMngt\\View\\Home.Designer.cs",
-              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Home.Designer.cs",
-              "RelativeToolTip": "HRMngt\\View\\Home.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "DocumentIndex": 2,
+              "Title": "Template_User.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Template_User.cs",
+              "RelativeDocumentMoniker": "HRMngt\\View\\Template_User.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Template_User.cs [Design]",
+              "RelativeToolTip": "HRMngt\\View\\Template_User.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:41:14.867Z",
+              "WhenOpened": "2024-03-08T13:11:41.765Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Template.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Template.cs",
+              "RelativeDocumentMoniker": "HRMngt\\View\\Template.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Template.cs [Design]",
+              "RelativeToolTip": "HRMngt\\View\\Template.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:38:22.847Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Template.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Template.cs",
+              "RelativeDocumentMoniker": "HRMngt\\View\\Template.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Template.cs",
+              "RelativeToolTip": "HRMngt\\View\\Template.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAEwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T06:11:02.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Template_User.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Template_User.cs",
+              "RelativeDocumentMoniker": "HRMngt\\View\\Template_User.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\Template_User.cs",
+              "RelativeToolTip": "HRMngt\\View\\Template_User.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAhwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T06:41:58.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\_Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HRMngt\\_Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\_Repository\\UserRepository.cs",
+              "RelativeToolTip": "HRMngt\\_Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:00:20.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\Model\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Model\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\Model\\IUserRepository.cs",
+              "RelativeToolTip": "HRMngt\\Model\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:21:57.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\_Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "HRMngt\\_Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\_Repository\\BaseRepository.cs",
+              "RelativeToolTip": "HRMngt\\_Repository\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:59:19.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "HRMngt",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\HRMngt.csproj",
+              "RelativeDocumentMoniker": "HRMngt\\HRMngt.csproj",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\HRMngt.csproj",
+              "RelativeToolTip": "HRMngt\\HRMngt.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-13T09:46:32.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\Model\\UserModel.cs",
+              "RelativeToolTip": "HRMngt\\Model\\UserModel.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA6wB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:15:14.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\Presenter\\UserPresenter.cs",
+              "RelativeDocumentMoniker": "HRMngt\\Presenter\\UserPresenter.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\Presenter\\UserPresenter.cs",
+              "RelativeToolTip": "HRMngt\\Presenter\\UserPresenter.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAnwCIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:31:53.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserView.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\IUserView.cs",
+              "RelativeDocumentMoniker": "HRMngt\\View\\IUserView.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\View\\IUserView.cs",
+              "RelativeToolTip": "HRMngt\\View\\IUserView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwCEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:24:06.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\App.config",
               "RelativeDocumentMoniker": "HRMngt\\App.config",
               "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\App.config",
               "RelativeToolTip": "HRMngt\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-02-28T14:15:53.413Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IndividualPopUP.cs",
+              "DocumentMoniker": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\popup\\IndividualPopUP.cs",
+              "RelativeDocumentMoniker": "HRMngt\\popup\\IndividualPopUP.cs",
+              "ToolTip": "C:\\Users\\Surface\\source\\repos\\HRMngt\\HRMngt\\popup\\IndividualPopUP.cs",
+              "RelativeToolTip": "HRMngt\\popup\\IndividualPopUP.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAApwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:31:37.051Z"
             }
           ]
         }

@@ -5,6 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
+using System.Configuration;
+using HRMngt.Presenter;
+using HRMngt.Model;
 
 namespace HRMngt
 {
@@ -21,8 +24,10 @@ namespace HRMngt
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            Home view = new Home();
-
+            string sqlConnectionString = ConfigurationManager.ConnectionStrings["SqlConnection"].ConnectionString;
+            Template view = new Template();
+            IUserRepository repository = new 
+            new UserPresenter(view, repository);
             Application.Run(view);
         }
         [System.Runtime.InteropServices.DllImport("user32.dll")]
